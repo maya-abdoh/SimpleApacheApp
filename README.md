@@ -1,13 +1,11 @@
 first script :
-sudo mv lunixstatus.sh lunixstatus  to rename  afiled name lunixstatus.sh to lunixstatus
-
 add script to lunix path :
 
-Ensure that the script file "lunixStatus" has executable permissions by running the following command: sudo chmod +x LunixStatus
+Ensure that the script file "linuxStatus" has executable permissions by running the following command: sudo chmod +x LunixStatus
 
 Create a directory named "bin" in your home directory by running the following command: mkdir $HOME/bin
 
-Move the script file "LunixStatus" to the "bin" directory by running the following command: mv lunixStatus $HOME/bin/
+Move the script file "linuxStatus" to the "bin" directory by running the following command: mv linuxStatus $HOME/bin/
 
 Add the "bin" directory to your PATH environment variable by running the following command: echo 'export PATH=$PATH:$HOME/bin' >> ~/.bashrc
 
