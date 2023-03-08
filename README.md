@@ -3,6 +3,12 @@ sudo mv lunixstatus.sh lunixstatus  to rename  afiled name lunixstatus.sh to lun
 
 
 
+add script to lunix path 
+sudo chmod +x lunixstatus to give permation .
+
+
+
+
 
 
 
