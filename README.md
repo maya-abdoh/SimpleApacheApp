@@ -1,7 +1,7 @@
 first script :
 add script to lunix path :
 
-Ensure that the script file "linuxStatus" has executable permissions by running the following command: sudo chmod +x LunixStatus
+Ensure that the script file "linuxStatus" has executable permissions by running the following command: sudo chmod +x linuxStatus
 
 Create a directory named "bin" in your home directory by running the following command: mkdir $HOME/bin
 
